@@ -1,0 +1,76 @@
+20EC5203  ELECTRONIC DESIGN PROJECT- I
+MODULE 1 - IR REMOTE CONTROL LIGHT SWITCH USING CD4017
+
+<ABSTRACT>
+
+The goal is to develop a system that allows users to control home appliances using an IR remote without relying on microprocessors or Arduino.
+This system should be simple, cost-effective, and easy to implement.The IR Remote Control Light Switch using CD4017 enhances convenience and
+accessibility in home automation by enabling wireless control of lights, reducing the need for manual interaction. This project is particularly
+beneficial for individuals with mobility challenges, promoting independence and ease of use in everyday life.
+
+<INTRODUCTION>
+Home automation has gained significant attention due to its ability to enhance convenience, energy savings, and control over household appliances. 
+An IR remote control light switch offers a user-friendly and cost-effective solution to control lighting systems wirelessly. This project employs 
+the CD4017 decade counter IC as the core component to implement a simple and efficient switching mechanism. The IR receiver module captures signals 
+from a standard IR remote, which are then interpreted by the CD4017 IC to toggle the light’s state. 
+
+<OBJECTIVE AND SCOPE>
+
+*OBJECTIVE
+The objective of the IR Remote Control Light Switch using CD4017 is to develop a low-cost.
+ user-friendly system that allows for wireless on/off control of lights via an IR remote.
+This project aims to enhance convenience and accessibility in home automation.
+Goals
+
+*SCOPE
+Although the current system avoids microprocessors, future iterations could integrate with IoT devices
+for enhanced functionality.
+
+<HARDWARE COMPONENTS>
+
+1.100uF DC capacitors 2no
+2.0.1 uF Capacitor
+3.220-ohm resistors 3 no
+4. 1k resistor
+5.  270k resistor
+6. BC557 PNP Transistor
+7. BC547 NPN Transistor
+8. CD4017 IC
+9. TSOP 1738 IR Receiver
+10. 1N4007 Diode
+11. 5-volt SPDT Relay
+12. Push Button
+13. 5 volt DC source.
+14. Breadboard 
+15.Connecting wires
+
+<ADVANTAGES & APPLICATIONS>
+
+*ADVANTAGES
+Simplicity
+Cost-Effective
+Real-Time Monitoring
+Adjustable Sensitivity
+Easy Integration
+Low Maintenance
+low power consumption 
+
+*APPLICATIONS
+Home Automation: Provides a convenient and wireless method for controlling household lights,
+enhancing user comfort and accessibility.
+
+<CONCLUSION>
+
+
+The IR remote control light switch using the CD4017 is a simple, cost-effective solution for controlling lights remotely. It leverages the convenience of IR technology, allowing users to toggle lights on or off using any standard IR remote. 
+The design is straightforward, making it ideal for DIY projects and basic home automation systems. However, its limitations, such as limited range, susceptibility to interference, 
+
+<REFERENCES>
+
+Abhishek. "Infrared remote control switch using IC CD4017." Electroinvention, [Electroinvention](https://www.electroinvention.co.in).
+Ghosh, Sourav, and Pradeep Kumar. "Design of IR remote control for controlling home appliances using CD4017." Journal of Electrical Engineering and Technology, vol. 18, no. 5, 2023.
+Gupta, Ankit, and Rajiv Kumar. "Automated switching of lights using infrared technology." Journal of Electronics and Communication Engineering, vol. 45, no. 2, 2022.
+Jain, Abhishek. "Remote control light switching using CD4017 and IR sensor." Electronic Projects Journal, vol. 30, no. 3, 2021.
+Joshi, Rohit, and Mehul Tiwari. "An IR-based light switching system with CD4017." International Journal of Electronics and Electrical Engineering, vol. 22, no. 1, 2021
+
+THANK YOU
